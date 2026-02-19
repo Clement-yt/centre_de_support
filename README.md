@@ -10,15 +10,15 @@
 
 ---
 
-## 🚀 À propos du projet
+## À propos du projet
 Ce dépôt contient le formulaire officiel de feedback et de rapport de bug pour l'organisation. L'interface a été conçue pour être rapide, intuitive et s'intégrer parfaitement à l'esthétique "Dark & Orange" de nos outils de développement.
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 * **HTML5** : Structure sémantique du formulaire.
 * **CSS3** : Design personnalisé (Thème sombre, accentuation orange, mise en page responsive).
 * **Formspree** : Gestion de l'envoi des formulaires sans backend.
 
-## 📁 Structure des fichiers
+## Structure des fichiers
 Le projet est organisé comme suit pour une meilleure maintenance :
 ```text
 .
